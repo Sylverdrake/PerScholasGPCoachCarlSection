@@ -1,0 +1,51 @@
+.miniContainer {
+    border: solid black;
+}
+
+.miniSelectors {
+    border: solid red;
+}
+
+h2 {
+    border: solid orange;
+}
+
+.filterContainer {
+    border: solid yellow;
+}
+
+.filter {
+    border: solid green;
+}
+
+.clrBtn {
+    border: solid blue;
+}
+
+.dropDwn {
+    border: solid indigo;
+}
+
+.txtContainer {
+    border: solid violet;
+}
+
+.left {
+    border: solid pink;
+}
+
+.right {
+    border: solid yellow;
+}
+
+.shopContainer {
+    border: solid cyan;
+}
+
+.item {
+    border: solid pink;
+}
+
+.product {
+    border: solid purple;
+}
